@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pustam-web.pages.dev/sitemap.xml
+Sitemap: https://vulkanisirpustam.my.id/sitemap.xml
